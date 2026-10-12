@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
 
-const repo = 'portfollio'; 
+const repo = 'Portfolio'; 
 
 export default defineConfig({
   base: `/${repo}/`, 
